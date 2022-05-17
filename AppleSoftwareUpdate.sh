@@ -157,7 +157,7 @@ If the error persists, please contact $ITContact."
 NoACPower="The computer is currently running off battery and is not plugged into a power source."
 
 # Standard Update Message
-StandardUpdatePrompt="There is a software update available for your Mac that requires a restart. Please click Continue to proceed to Software Update to run this update. If you are unable to start the process at this time, you may choose to postpone by one day.
+StandardUpdatePrompt="Software changes are required. Your IT department requires changes to the software on your computer.  Please click Continue to proceed to Software Update to run this update. If you are unable to start the process at this time, you may choose to postpone by one day.
 
 Attempts left to postpone: $CurrentDeferralValue
 
@@ -179,7 +179,7 @@ Failure to complete the update will result in the computer shutting down."
 HUDWarningMessage="Please save your work and quit all other applications. This computer will be shutting down soon."
 
 # Message shown when running CLI updates
-HUDMessage="Please save your work and quit all other applications. macOS software updates are being installed in the background. Do not turn off this computer during this time.
+HUDMessage="Software changes are required.  Please save your work and quit all other applications. macOS software updates are being installed in the background. Do not turn off this computer during this time.
 
 This message will go away when updates are complete and closing it will not stop the update process.
 
